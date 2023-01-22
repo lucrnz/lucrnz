@@ -16,6 +16,6 @@ Please call me (order of preference): [They/them](https://pronouns.within.lgbt/t
 <details>
   <summary>Click to see some cool stats</summary>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidcralph&count_private=true)
-  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcralph)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucrnz&count_private=true)
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucrnz)
 </details>
