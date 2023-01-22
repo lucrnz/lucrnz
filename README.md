@@ -1,3 +1,5 @@
+[![Silhouette of Person Under Blue and Purple Sky](https://file.lucdev.net/github-readme/night-photograph-starry-sky-night-sky-star-957040_crop.jpg)](https://www.pexels.com/photo/silhouette-of-person-under-blue-and-purple-sky-957040/)
+
 # Luc
 Polyglot programmer; [hacker](https://en.wikipedia.org/wiki/Hacker) - the good kind.
 
