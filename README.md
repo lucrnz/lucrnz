@@ -1,4 +1,4 @@
-[![Silhouette of Person Under Blue and Purple Sky](https://file.lucdev.net/github-readme/night-photograph-starry-sky-night-sky-star-957040_crop.jpg)](https://www.pexels.com/photo/silhouette-of-person-under-blue-and-purple-sky-957040/)
+[![Bright Stars in Outer Space](https://file.lucdev.net/github-readme/pexels-jeremy-m%C3%BCller-11101908_crop.jpg)](https://www.pexels.com/photo/bright-stars-in-outer-space-11101908/)
 
 # Luc
 Polyglot programmer; [hacker](https://en.wikipedia.org/wiki/Hacker) - the good kind.
