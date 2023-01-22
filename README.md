@@ -12,3 +12,10 @@ I happen to have [a blog](https://lucdev.net) where I write about different topi
 - [git.lucdev.net](https://git.lucdev.net/luc)
 
 Please call me (order of preference): [They/them](https://pronouns.within.lgbt/they) or [She/her](https://pronouns.within.lgbt/she) please.
+
+<details>
+  <summary>Click to see some cool stats</summary>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidcralph&count_private=true)
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcralph)
+</details>
