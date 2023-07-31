@@ -7,4 +7,3 @@ Polyglot programmer; tea-lover; [hacker](https://en.wikipedia.org/wiki/Hacker) -
 I happen to have [a blog](https://lucdev.net/blog) where I write about different topics.
 
 I host more projects on my [Codeberg](https://codeberg.org/lucrnz) account.
-](https://file.lucdev.net/github-header.png)
