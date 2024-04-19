@@ -1,9 +1,12 @@
-![Header showing a lamp on a white desk and a pot plant. On top there are tech logos, reading: HTML, CSS, TypeScript, CSharp, React, Next, Go and Docker](https://file.lucdev.net/github-header.png)
+# Lucdev
 
-# Luc
+👋 Hey! Welcome to my Github profile 🙂
 
-Polyglot programmer; tea-lover; [hacker](https://en.wikipedia.org/wiki/Hacker) - the good kind.
+🌎 - Web developer - HTML/CSS
+📃 - Front-end developer - JavaScript/TypeScript + React/Svelte/Web components
+💾 - Databases - SQL - I like Postgre but I also have experience with MSSQL
+⚙ - Backend - Golang / Node.js
+🐧 - Deployment: Debian & Docker 🐋 - Also writes Github CI yaml.
+🍵 - Drinks a lot of tea
 
-I happen to have [a blog](https://lucdev.net/blog) where I write about different topics.
-
-I host more projects on my [Codeberg](https://codeberg.org/lucrnz) account.
+📝 - I happen to have [a blog](https://lucdev.net/blog) where I write about software development.
