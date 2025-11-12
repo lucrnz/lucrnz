@@ -1,17 +1,21 @@
-# Lucdev
+# Luciano Hillcoat  
+**Senior Software Engineer** | Front-End & Full-Stack Specialist
+---
+### Focus
 
-👋 Hey! Welcome to my Github profile 🙂
+Delivering high-impact web applications with a clean, scalable architecture. Primary expertise in **Next.js**, complemented by full-stack capabilities in **Node.js**. Flexible across frameworks and eager to adopt the right tool for the job.
 
-🌎 - Web developer - HTML/CSS
+### Tech Stack
+- **Front-End**: TypeScript, React, **Next.js** (App Router, Server Components, SSR/SSG). 
+- **Back-End**: Node.js, Fastify, REST APIs, relational database design (PostgreSQL preferred)  
+- **DevOps**: Docker, Ubuntu VPS, GitHub Actions CI/CD, AWS (in-depth learning)
 
-⭐ - Front-end developer - JavaScript/TypeScript - [React](https://react.dev/)/[Next](https://nextjs.org/) *(+ I also tried a bunch of libraries for UI, but I am happy with this stack.)*
+### 📈 Current Interests
+Actively exploring AI-assisted code generation and integrating cutting-edge tools to accelerate development velocity without sacrificing quality.
 
-⚙ - Backend developer - [Node](https://nodejs.org/en) / [Fastify](https://fastify.dev/) - I like designing a database 💾 *(I am happiest using a relational one)* & wiring it up with a REST API 🛜.
+### ✍️ Writing
+Sharing practical insights on modern web development at **[lucdev.net/blog](https://lucdev.net/blog)**.
 
-🐧 - Deployment: Ubuntu on a VPS / [Docker](https://docs.docker.com/engine/) 🐋 - Learning AWS. + Also writes [Github CI yaml](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration).
+---
 
-🍵 - Drinks a lot of tea. (boosted by Coffee sometimes 🚀)
-
-📝 - I happen to have [a blog](https://lucdev.net/blog) where I write about Web development.
-
-🧠 - I am also very curious and will probably try out other technologies!
+*Here to build something exceptional.*  
