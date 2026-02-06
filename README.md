@@ -13,9 +13,6 @@ Delivering high-impact web applications with a clean, scalable architecture. Pri
 ### 📈 Current Interests
 Actively exploring AI-assisted code generation and integrating cutting-edge tools to accelerate development velocity without sacrificing quality.
 
-### ✍️ Writing
-Sharing practical insights on modern web development at **[lucdev.net/blog](https://lucdev.net/blog)**.
-
 ---
 
 *Here to build something exceptional.*  
